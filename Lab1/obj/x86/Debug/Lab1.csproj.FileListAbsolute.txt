@@ -50,3 +50,5 @@ H:\Викуся\Учеба\Семестр 6\Методы оптимизации\
 H:\Викуся\Учеба\Семестр 6\Методы оптимизации\Lab1\Lab1\obj\x86\Debug\GenerateResource.write.1.tlog
 F:\Викуся\Учеба\Семестр 6\Методы оптимизации\Lab1\Lab1\obj\x86\Debug\Lab1.exe
 F:\Викуся\Учеба\Семестр 6\Методы оптимизации\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
+C:\Users\-\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+C:\Users\-\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
